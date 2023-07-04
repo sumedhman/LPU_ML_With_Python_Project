@@ -1,6 +1,6 @@
 # LPU_ML_With_Python_Project
 
-## CLass Video Links:
+**CLass Video Links:**
 * **Machine Learning with Python Day 1 - Video Link (OOP with Python):** https://tinyurl.com/y6zcupez
 * **Machine Learning with Python Day 2 - Video Link (Database with Python):** https://tinyurl.com/2bk7eea8
 * **Machine Learning with Python Day 3 - Video Link (NumPy Module):** https://tinyurl.com/42xa32yk
