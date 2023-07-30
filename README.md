@@ -11,8 +11,10 @@
 * **Machine Learning with Python Day 8 - Video Link (Logistic Regression):** https://tinyurl.com/3akzcrnj
 * **Machine Learning with Python Day 9 - Video Link (Decision Tree & Random Forest Classifier):** https://tinyurl.com/2s5hbdc6
 * **Machine Learning with Python Day 10 - Video Link (KNN and Introduction to K-Means):** https://tinyurl.com/3rdjpywt
-* **Machine Learning with Python Day 11 - Video Link (Implementations of K-Means and DBSCAN & Project Guidance):**
-* **Machine Learning with Python Day 12 - Video Link (Naive Bayes Classifier & Data Visualization):**
+* **Machine Learning with Python Day 11 - Video Link (Implementations of K-Means and DBSCAN & Project Guidance):** https://tinyurl.com/4xm57jx6
+* **Machine Learning with Python Day 12 - Video Link (Naive Bayes Classifier & Data Visualization):** https://tinyurl.com/3wpepty8
+* **Machine Learning with Python Day 13 - Video Link (Project Guidance):** https://tinyurl.com/vjp2927e
+* **Machine Learning with Python Day 14 - Video Link (Project Presentation by Students):** https://tinyurl.com/3tuu52c5
 <br>
 
 * **GitHub Link for all ClassWork Files and Resources:** https://github.com/toarnabtrainer/LPU_ML_With_Python_Project
